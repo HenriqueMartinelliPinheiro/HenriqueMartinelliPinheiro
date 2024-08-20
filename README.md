@@ -38,6 +38,4 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/HenriqueMartinelliPinheiro/HenriqueMartinelliPinheiro/blob/output/github-contribution-grid-snake.svg)
-
 [![](https://visitcount.itsvg.in/api?id=HenriqueMartinelliPinheiro&label=Visitas%20no%20Perfil&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
